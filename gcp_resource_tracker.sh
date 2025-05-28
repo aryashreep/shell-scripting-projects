@@ -17,7 +17,7 @@ set -x
 #gcloud projects list
 
 # Set Active Project
-#gcloud config set project 701207556377
+#gcloud config set project <PROJECT_ID>
 
 # Verify Active Project
 #gcloud config get-value project
